@@ -1,0 +1,21 @@
+# Não versionar planilhas, artefatos locais ou segredos
+.env
+.env.*
+!*.env.example
+__pycache__/
+*.tmp
+*.bak
+*.log
+~$*
+*.pbix
+*.pbit
+*.xlsx
+*.xls
+*.csv
+*.parquet
+*.pbip
+# Apenas adicionar projeto Power BI depois de revisar conteúdo sensível
+Dados/
+dados/
+data/raw/
+dados-brutos/
