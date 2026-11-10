@@ -1,0 +1,50 @@
+{
+  "name": "Finance Flow - Light (Corrigido)",
+  "dataColors": [
+    "#FF169C",
+    "#8E93A6",
+    "#9A8CFF",
+    "#269C99",
+    "#FF75C8",
+    "#E3A349",
+    "#6284B5",
+    "#D85B7A"
+  ],
+  "good": "#148A6A",
+  "neutral": "#C58C27",
+  "bad": "#CE3D65",
+  "maximum": "#FF169C",
+  "center": "#9A8CFF",
+  "minimum": "#F7C7E5",
+  "null": "#A7A7B8",
+  "tableAccent": "#FF169C",
+  "background": "#F5F5F8",
+  "foreground": "#17171D",
+  "firstLevelElements": "#17171D",
+  "secondLevelElements": "#5F6272",
+  "thirdLevelElements": "#E6E6ED",
+  "fourthLevelElements": "#9898A6",
+  "secondaryBackground": "#FFFFFF",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#17171D"
+    },
+    "title": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#17171D"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#17171D"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#424251"
+    }
+  }
+}
