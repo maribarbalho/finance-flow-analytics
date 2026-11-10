@@ -1,0 +1,91 @@
+{
+  "name": "Finance Flow | Dark",
+  "dataColors": [
+    "#FF169C",
+    "#A7A7B8",
+    "#9A8CFF",
+    "#4DCAC3",
+    "#FF83CB",
+    "#F2B96B",
+    "#6685B3",
+    "#E46B86"
+  ],
+  "good": "#2FBF9B",
+  "neutral": "#E7AD54",
+  "bad": "#EA6683",
+  "maximum": "#FF169C",
+  "center": "#A7A7B8",
+  "minimum": "#D6B4F8",
+  "null": "#8A8A97",
+  "tableAccent": "#FF169C",
+  "background": "#0D0D12",
+  "foreground": "#F8F8FC",
+  "firstLevelElements": "#F8F8FC",
+  "secondLevelElements": "#C3C3D0",
+  "thirdLevelElements": "#42424F",
+  "fourthLevelElements": "#9292A4",
+  "secondaryBackground": "#24242E",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 30,
+      "color": "#F8F8FC"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#F8F8FC"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#F8F8FC"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#F8F8FC"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#1B1B23"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "fontColor": {
+              "solid": {
+                "color": "#F8F8FC"
+              }
+            }
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#363641"
+              }
+            },
+            "radius": 8,
+            "width": 1
+          }
+        ]
+      }
+    }
+  }
+}
